@@ -1,0 +1,133 @@
+.main {
+  border: solid black;
+  margin: 100px;
+  /* width: 80%; */
+}
+.display {
+  border: solid gray;
+  height: 150px;
+  background-color: lightgray;
+}
+.topnums {
+  border: solid green;
+  height: 250px;
+  display: flex;
+  text-align: center;
+}
+.middlenums {
+  border: solid brown;
+  height: 250px;
+  display: flex;
+  text-align: center;
+}
+.bottomnums {
+  border: solid black;
+  height: 250px;
+  display: flex;
+  text-align: center;
+}
+.symbolrow {
+  border: solid blue;
+  height: 250px;
+  display: flex;
+  text-align: center;
+}
+.Seven {
+  border: solid black;
+  padding-top: 5px;
+  width: 25%;
+}
+.Eight {
+  border: solid black;
+  width: 25%;
+}
+.Nine {
+  border: solid black;
+  width: 25%;
+}
+.divide {
+  border: solid black;
+  width: 25%;
+}
+
+.Four {
+  border: solid black;
+  width: 25%;
+}
+.Five {
+  border: solid black;
+  width: 25%;
+}
+.Six {
+  border: solid black;
+  background-image: url("");
+  width: 25%;
+  background-size: contain;
+}
+.six {
+  height: 95%;
+}
+.x {
+  border: solid black;
+  width: 25%;
+}
+.X {
+  margin: 10px;
+  padding-top: 10px;
+  height: 80%;
+}
+
+.three {
+  border: solid black;
+  width: 25%;
+}
+
+.Three {
+  height: 80%;
+  padding-top: 20px;
+}
+.two {
+  border: solid black;
+  background-image: url("");
+  width: 25%;
+  background-size: contain;
+}
+.one {
+  border: solid black;
+  background-image: url("");
+  width: 25%;
+  background-size: contain;
+}
+.One {
+  height: 90%;
+}
+.minus {
+  border: solid black;
+  width: 25%;
+}
+
+.zero {
+  border: solid black;
+  width: 25%;
+}
+.clear {
+  border: solid black;
+  width: 25%;
+  background-size: contain;
+  text-align: center;
+  /* padding-top: 10px; */
+  font-size: 50px;
+}
+.plus {
+  border: solid black;
+  width: 25%;
+  background-size: contain;
+}
+.Plus {
+  height: 90%;
+}
+.equal {
+  border: solid black;
+  width: 25%;
+  background-size: contain;
+}
