@@ -1,9 +1,10 @@
 //Query selector
 //Navigate to an html tag by the class name and target its element
 let screen = document.querySelector(".main");
-let display = document.querySelector(".display");
+let display = document.querySelector(".displayItems");
 
 const uploadToScreen = (number) => {
+  console.log("Display a ", number);
   display.append(number);
 };
 //Once clicked/initialised ... I want num_key to show its value to the screen
