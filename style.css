@@ -5,10 +5,11 @@
 }
 .display {
   border: solid gray;
-  height: 150px;
+  height: 100px;
   background-color: lightgray;
-  font-size: 50px;
+  font-size: 70px;
   padding-left: 20px;
+  padding-top: 20px;
 }
 .topnums {
   border: solid green;

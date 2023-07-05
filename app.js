@@ -1,7 +1,7 @@
 //Query selector
 //Navigate to an html tag by the class name and target its element
 let screen = document.querySelector(".main");
-let display = document.querySelector(".displayItems");
+let display = document.querySelector(".display");
 
 const uploadToScreen = (number) => {
   console.log("Display a ", number);
